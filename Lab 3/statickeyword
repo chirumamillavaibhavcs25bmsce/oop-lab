@@ -1,4 +1,4 @@
-
+//static keyword
 class Student {
     int rollNo;
     String name;
