@@ -1,3 +1,4 @@
+//stack implimentation
 import java.util.Scanner;
 
 class Stack {
