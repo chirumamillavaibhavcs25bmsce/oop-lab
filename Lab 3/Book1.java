@@ -1,3 +1,4 @@
+//returning a object
 class Book1 {
     int price;
     String title;
